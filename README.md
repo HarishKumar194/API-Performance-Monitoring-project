@@ -32,7 +32,7 @@ A Python-based system that benchmarks API performance by measuring response time
 
 ---
 
-## ▶️ Run Project
+## Run Project
 ```bash
 pip install -r requirements.txt
 python src/main.py
