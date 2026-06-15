@@ -1,11 +1,11 @@
 # API Performance Monitoring System
 
-## 📌 Overview
+##  Overview
 A Python-based system that benchmarks API performance by measuring response time, success rate, and failure rate across multiple endpoints.
 
 ---
 
-## ⚙️ Features
+##  Features
 - Measures API response time (ms)
 - Calculates success and failure rates
 - Handles API timeouts and errors
@@ -14,14 +14,14 @@ A Python-based system that benchmarks API performance by measuring response time
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python
 - Requests library
 - Time module
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 1. Sends multiple requests to each API
 2. Measures response latency
 3. Tracks success and failures
